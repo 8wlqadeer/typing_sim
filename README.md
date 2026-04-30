@@ -40,7 +40,7 @@ java -cp . Part1.TypingRace
 
 ### How to compile
 ```bash
-cd ..
+cd TypingRaceGUI  (NOT INSIDE PART2)
 javac Part2/Typist.java Part2/TypingRace.java Part2/TypingRaceGUI.java
 ```
 
